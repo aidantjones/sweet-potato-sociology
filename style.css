@@ -412,7 +412,7 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 1353px) {
+@media screen and (max-width: 942px) {
   .episode {
     overflow: auto;
   }
@@ -441,6 +441,7 @@
   font-weight: bold;
   transition: .1s;
   height: 81vh;
+  width: unset;
 }
 
 .episode article nav ol {
@@ -512,7 +513,6 @@
   text-align: left;
   font-weight: normal;
   overflow: auto;
-  max-width: 40rem;
   scrollbar-color: var(--light-grey-hover) transparent;
   background-color: var(--grey);
   padding: 4rem 6%;
