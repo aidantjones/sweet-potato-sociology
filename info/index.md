@@ -39,3 +39,9 @@ For a more in-depth look, Apple’s Jen Simmons gave [an intriguing talk](https:
  - [IBM Plex Family](https://github.com/IBM/plex)
    - Sans
    - Serif
+
+### License
+
+All content on this website created by me (Aidan Jones) is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Though this video series falls under [fair use](https://www.copyright.gov/fair-use/more-info.html), this doctrine does not protect against copyright infringement incurred from adapting or sharing any content containing source material and I will not be responsible for any such infringement.
