@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    {% include meta.liquid %}
     <title>{{title}} - Sweet Potato Sociology</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:image" content="assets/potato.jpg" />
-    <meta property="og:image:alt" content="Sweet Potato Sociology's cute sweet potato logo" />
+    <meta property="og:image" content="{{ og-image }}" />
+    <meta property="og:image:alt" content="This epsiode's thumbnail" />
     <meta property="og:description" content="{{ og-description }}" />
-    <link rel="stylesheet" type="text/css" href="/style.css">
   </head>
   <body class="episode">
     {% include header.liquid %}
